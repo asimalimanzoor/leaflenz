@@ -83,3 +83,8 @@
   }
   h1, h2, h3 { font-family: var(--font-display); letter-spacing: -0.02em; }
 }
+/* Add this at the bottom of your CSS file */
+
+#lovable-badge {
+  display: none !important;
+}

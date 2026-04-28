@@ -122,7 +122,7 @@ function Index() {
             </h1>
             <p className="text-lg text-muted-foreground leading-relaxed">
               Snap or upload a leaf photo. Our AI identifies the disease, severity, and gives you
-              treatment steps — built for farmers, gardeners, and researchers.
+              treatment steps — built for farmers, gardeners, and researchers.by asim
             </p>
             <div className="flex flex-wrap gap-3">
               <Button
